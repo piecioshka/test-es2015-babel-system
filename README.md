@@ -16,7 +16,7 @@ Next experimental application which contains some tools:
     ```
 answer for several question - probably always hit ENTER.
 3. Include `jspm_packages/system.js` to `index.html` file.
-4. Create <script> tag with:
+4. Create `<script>` tag with:
 
     ```javascript
     System.transpiler = 'babel';
