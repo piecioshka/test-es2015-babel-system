@@ -50,6 +50,6 @@ answer for several question - probably always hit ENTER.
 ## Setup current project
 
 ```
-git clone https://github.com/piecioshka/test-es6-babel-browserify.git
+git clone https://github.com/piecioshka/test-es6-babel-system.git
 jspm install
 ```
