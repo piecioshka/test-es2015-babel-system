@@ -1,4 +1,9 @@
 {
+  "name": "test-es6-babel-system",
+  "private": true,
+  "scripts": {
+    "preinstall": "npm install -g jspm"
+  },
   "jspm": {
     "directories": {
       "lib": ".",

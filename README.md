@@ -51,5 +51,6 @@ answer for several question - probably always hit ENTER.
 
 ```
 git clone https://github.com/piecioshka/test-es6-babel-system.git
+npm install
 jspm install
 ```
