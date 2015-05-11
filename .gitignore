@@ -1,2 +1,4 @@
-.idea
-jspm_packages
+.idea/
+jspm_packages/
+node_modules/
+npm-debug.log
