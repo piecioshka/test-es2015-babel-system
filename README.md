@@ -9,6 +9,10 @@ Next experimental application which contains some tools:
 ## Steps
 
 1. Install globally `jspm`.
+
+    ```
+    npm install -g jspm
+    ```
 2. Setup project:
 
     ```
