@@ -3,8 +3,14 @@
   "private": true,
   "jspm": {
     "directories": {
-      "lib": "app/scripts/",
-      "packages": "app/jspm_packages"
+      "baseURL": "app",
+      "lib": "app/scripts/"
+    },
+    "configFile": "app/scripts/config.js",
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.1.13",
+      "babel-runtime": "npm:babel-runtime@^5.1.13",
+      "core-js": "npm:core-js@^0.9.4"
     }
   }
 }
