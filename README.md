@@ -1,8 +1,8 @@
-# test-es6-babel-system
+# test-es2015-babel-system
 
 Next experimental application which contains some tools:
 
- - **ECMAScript 6** (as new syntax in JavaScript)
+ - **ECMAScript 2015** (as new syntax in JavaScript)
  - **Babel.js** as parse and transpiler ES6 to ES5
  - **System.js** as universal dynamic module loader
 
@@ -11,12 +11,12 @@ Next experimental application which contains some tools:
 1. Install globally `jspm`.
 
     ```
-    npm install -g jspm
+    $ npm install -g jspm
     ```
 2. Setup project:
 
     ```
-    jspm init
+    $ jspm init
     ```
 answer for several question - probably always hit ENTER.
 3. Include `jspm_packages/system.js` to `index.html` file.
@@ -54,7 +54,8 @@ answer for several question - probably always hit ENTER.
 ## Setup current project
 
 ```
-git clone https://github.com/piecioshka/test-es6-babel-system.git
-npm install
-jspm install
+$ git clone https://github.com/piecioshka/test-es2015-babel-system.git
+$ cd test-es2015-babel-system
+$ npm install
+$ jspm install
 ```
